@@ -151,7 +151,7 @@ footer {
 .titulo {
     text-align: center;
     padding-top: 2rem;
-    
+
 }
 
 .titulo h3 {
@@ -166,7 +166,7 @@ footer {
 .grid {
     display: grid;
 
-    
+
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
     width: 90%;
     margin: 0 auto;
@@ -207,25 +207,23 @@ footer {
     object-fit: cover;
 }
 
-.preguntas{
+.preguntas {
     display: grid;
-   grid-template-columns: auto auto;
-border: 2px solid gray;
-height: 400px;
+    grid-template-columns: auto auto;
+    border: 2px solid gray;
+    height: 400px;
 
 }
 
 
-@media screen and (max-width: 767px) { 
-
-    
-}
+@media screen and (max-width: 767px) {}
 
 
 @media only screen and (max-width: 600px) {
     .flex1 {
         flex-direction: column;
     }
+
     .flexhijo {
         width: 95%;
     }
@@ -235,11 +233,10 @@ height: 400px;
 @media only screen and (max-width: 768px) {
     .flex1 {
         flex-direction: column;
-        
+
     }
 
     .flexhijo {
         width: 95%;
     }
 }
-

@@ -32,8 +32,8 @@ header a {
 
 header a:hover h1 {
     background: -webkit-linear-gradient(rgb(13, 177, 177), rgb(255, 255, 255));
+    text-transform: initial;
     
-    -webkit-text-fill-color: transparent;
 }
 
 header h1 {

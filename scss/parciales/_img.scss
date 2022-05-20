@@ -1,0 +1,32 @@
+.imagen {
+
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.411);
+    transition: 0.4s;
+
+    .imagen:hover {
+        transform: scale(1.03);
+
+        .imagen p {
+            position: absolute;
+            bottom: 20%;
+            left: 33%;
+            opacity: 0;
+            background: rgba(0, 0, 0, 0.637);
+            color: white;
+            padding: 1rem 2rem;
+
+            .imagen:hover p {
+                opacity: 1;
+
+                .imagen img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+
+            }
+        }
+    }
+}

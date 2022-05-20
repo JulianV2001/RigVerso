@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+@import "parciales/parcial1.scss";
+@import "parciales/img.scss";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    background: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+
+
+header {
+    background: rgb(0, 0, 0);
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header a:hover h1 {
+    background: -webkit-linear-gradient(rgb(13, 177, 177), rgb(255, 255, 255));
+    text-transform: initial;
+    
+}
+
+header h1 {
+    color: white;
+    transition: 0.3s;
+}
+
+
+nav {
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0);
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 5px;
+    border-top: 1px solid white;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.616);
+}
+
+nav a {
+    margin-left: 3px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    transition: 0.4s;
+}
+
+
+nav a:hover {
+    color: rgb(0, 136, 255);
+    text-decoration: underline;
+}
+
+
+.clearfix {
+    clear: both;
+}
+
+#content {
+    float: left;
+    width: 80%;
+    height: 400px;
+    padding: 20px;
+}
+
+footer {
+    background: black;
+    color: whitesmoke;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+#rigs {
+    min-height: 100vh;
+    margin: 16px;
+    padding: 16px;
+}
+
+#servicios {
+    margin: 16px;
+    padding: 16px;
+}
+
+
+
+#quienes {
+    margin: 16px;
+    padding: 16px;
+}
+
+#faq {
+    margin: 16px;
+    padding: 16px;
+
+}
+
+.flex {
+    padding: 2px;
+    min-height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.flex1 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.flexhijo {
+    border: 1px solid black;
+    padding: 10px;
+    width: 30%;
+    min-height: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flexhijo img {
+    width: 300px;
+    height: 240px;
+}
+
+.titulo {
+    text-align: center;
+    padding-top: 2rem;
+
+}
+
+.titulo h3 {
+    font-size: 1.7rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.226);
+}
+
+.seccion {
+    width: 100%;
+}
+
+.grid {
+    display: grid;
+
+
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    gap: 1rem;
+}
+
+.imagen {
+
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.411);
+    transition: 0.4s;
+}
+
+.imagen:hover {
+    transform: scale(1.03);
+}
+
+
+.imagen p {
+    position: absolute;
+    bottom: 20%;
+    left: 33%;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.637);
+    color: white;
+    padding: 1rem 2rem;
+}
+
+.imagen:hover p {
+    opacity: 1;
+}
+
+.imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.preguntas {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.preguntas h2 {
+    font-size: 1.6rem;
+    text-decoration: underline rgb(22, 22, 68);
+}
+
+.preguntas p {
+    font-size: 1rem;
+}
+
+iframe {
+    width: 100%;
+    margin: auto;
+}
+
+@media screen and (max-width: 767px) {}
+
+
+@media only screen and (max-width: 600px) {
+    .flex1 {
+        flex-direction: column;
+    }
+
+    .flexhijo {
+        width: 95%;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .flex1 {
+        flex-direction: column;
+
+    }
+
+    .flexhijo {
+        width: 95%;
+    }
+}

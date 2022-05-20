@@ -1,0 +1,12 @@
+.preguntas {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+.preguntas h2 {
+    font-size: 1.6rem;
+    text-decoration: underline rgb(22, 22, 68);
+}
+.preguntas p {
+    font-size: 1rem;
+}

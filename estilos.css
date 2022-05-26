@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-@import "parciales/parcial1.scss";
-@import "parciales/img.scss";
-@import "parciales/preguntas.scss";
 * {
     margin: 0px;
     padding: 0px;
 }
 
 
+
 body {
     background: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
-   
+
 }
 
 

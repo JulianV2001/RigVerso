@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/issues</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/pulls</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/actions</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/projects?type=beta</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/security</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/4a65b6f5631791710623ba2de7f4e1348a03db72</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/blob/main/estilos.css</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/blob/main/index.html</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/releases</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/compare</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/projects</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/security/policy</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/security/advisories</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/9f6c165aad38a8522664ec4f6cc181d70750cb07</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/blob/4a65b6f5631791710623ba2de7f4e1348a03db72/estilos.css</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/find/main</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/blob/4a65b6f5631791710623ba2de7f4e1348a03db72/index.html</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels?sort=name-asc</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels?sort=name-desc</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels?sort=count-desc</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels?sort=count-asc</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/bug</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/documentation</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/duplicate</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/enhancement</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/good%20first%20issue</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/help%20wanted</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/invalid</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/question</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/labels/wontfix</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/security/advisories?state=published</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/7bb37897021463d7f4e38d3baa760bdaa1aa7fa3</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/find/4a65b6f5631791710623ba2de7f4e1348a03db72</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/d9c4cb67098a1a6a8d9677eb13184147df382ad7</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/b31201882c9402027fa734726570da59b7b033c6</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/b8a7a69a6a41d1404f5d5edbcf3c63e0f213b798</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/e9634d835b446c84f4cd8b9c1074e62682720629</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/3ea1b15c4b35f070bab3b86aa9de9a7ed0f36100</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/e256c31341a40a5238f74bfeb7b2d2181e7d2948</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/JulianV2001/RigVerso/commit/6be330b4afd206632ac68bbac4e3a6f4a05b968d</loc>
+  <lastmod>2022-05-27T00:27:11+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+
+
+</urlset>
